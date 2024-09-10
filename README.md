@@ -23,6 +23,8 @@ Ensure you have the following installed:
     npm install
     # or
     yarn install
+    # or 
+    pnpm i 
     ```
 
 ### Running the Development Server
@@ -32,6 +34,8 @@ To start the development server, run:
 npm run dev
 # or
 yarn dev
+# or 
+pnpm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
